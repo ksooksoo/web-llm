@@ -19,7 +19,7 @@ document.getElementById('send-btn').onclick = async function () {
       },
 
     ],
-    'max_tokens': '50',
+    'max_tokens': '20',
     "temperature": "0.5"
   }
 
